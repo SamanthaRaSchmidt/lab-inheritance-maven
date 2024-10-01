@@ -13,6 +13,7 @@ public class BasicCounter implements Counter {
     public BasicCounter(int initialCount) {
         this.count = initialCount;
         this.start = initialCount;
+        //System.err.println("BasicCounter");
     }
 
     @Override

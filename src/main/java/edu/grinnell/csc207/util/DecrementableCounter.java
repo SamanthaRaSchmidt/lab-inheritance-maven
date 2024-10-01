@@ -12,6 +12,7 @@ public class DecrementableCounter extends BasicCounter {
      */
     public DecrementableCounter(int start) {
         super(start);
+        //System.err.println("DecrementableCounter");
     } // DecrementableCounter(int)
 
     public void decrement() {
