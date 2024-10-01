@@ -17,7 +17,7 @@ public class BasicCounter implements Counter {
     }
 
     @Override
-    public void increment() {
+    public void increment() throws Exception {
         count++;
     }
 

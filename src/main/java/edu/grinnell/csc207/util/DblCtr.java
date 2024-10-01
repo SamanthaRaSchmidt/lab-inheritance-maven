@@ -21,9 +21,10 @@ public class DblCtr implements Counter {
 
   /**
    * Increment the counter, twice.
-   */
-  @Override
-  public void increment() { 
+    * @throws Exception 
+      */
+     @Override
+     public void increment() throws Exception { 
     this.base.increment();
     this.base.increment();
   } // increment()

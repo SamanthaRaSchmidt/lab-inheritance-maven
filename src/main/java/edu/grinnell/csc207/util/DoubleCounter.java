@@ -6,7 +6,7 @@ public class DoubleCounter extends BasicCounter {
       } // DoubleCounter(int)
 
       @Override
-      public void increment() { 
+      public void increment() throws Exception { 
         super.increment();
         super.increment();
       } // increment()

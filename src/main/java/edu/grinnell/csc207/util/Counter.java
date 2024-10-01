@@ -10,7 +10,7 @@ public interface Counter {
    * @throws Exception
    *   When the count gets too large.
    */
-  public void increment();
+  public void increment() throws Exception;
 
   /**
    * Reset the counter.
