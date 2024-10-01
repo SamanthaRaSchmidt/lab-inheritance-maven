@@ -5,7 +5,7 @@ A laboratory exploring inheritance.
 Authors:
 
 * Samuel A. Rebelsky (starter code)
-* Your name here
-* Your name here
+* Sam Schmidt
+* Paden Houck
 
-This code may be found at <FILL IN>.
+This code may be found at https://github.com/SamanthaRaSchmidt/lab-inheritance-maven.git.
